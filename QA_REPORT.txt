@@ -1,0 +1,8 @@
+KIỂM TRA GÓI WEBSITE — BẢN CHUẨN HÓA TỪ VỰNG VÀ ÂM THANH
+
+- Chuẩn hóa 10 bài học: trường word là tiếng Nùng An, meaning là nghĩa tiếng Việt.
+- Sửa các cặp từ vựng theo danh sách người dùng xác nhận.
+- Cập nhật danh sách tên file MP3 chuẩn và ánh xạ bí danh để liên kết từ vựng với tên file.
+- Nút phát âm sử dụng đường dẫn assets/audio/ và mã hóa ký tự Unicode trong URL.
+- Lưu ý: ZIP nguồn không chứa các tệp MP3 thực tế; danh sách tên và cơ chế liên kết đã được cập nhật, cần chép tệp âm thanh gốc vào assets/audio/ để nghe được.
+- Đã kiểm tra cú pháp JavaScript bằng Node.js.
